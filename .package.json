@@ -9,9 +9,7 @@
           "public",
           "src"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {"test": "echo \"Error: no test specified\" && exit 1"},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CarlitosPJYT950/Project.git"
@@ -20,8 +18,6 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/CarlitosPJYT950/Project/issues"
-  },
+  "bugs": {"url": "https://github.com/CarlitosPJYT950/Project/issues"},
   "homepage": "https://github.com/CarlitosPJYT950/Project#readme"
 }
