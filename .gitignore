@@ -9,3 +9,5 @@
 /node_modules/bin/build/
 /node_modules/build/nbproject/private/
 /node_modules/build/build/
+/public/config/nbproject/private/
+/public/config/build/
