@@ -1,0 +1,13 @@
+{
+"DiosesMC" : {
+"usuario" : "VegettaGamer",
+"Rango" : "Dueño",
+"Lobby" : 1,
+"usuarios" : {
+"id" : 1,
+"dinero" : 999999,
+"server" : "localhost"
+},
+"conexion" : 200
+}
+}
