@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "workspaces" : [
-          "VsCode",
-          "node_modules",
-          "public",
-          "src"
+    "VsCode",
+    "node_modules",
+    "public",
+    "src"
   ],
   "scripts": {"test": "echo \"Error: no test specified\" && exit 1"},
   "repository": {
