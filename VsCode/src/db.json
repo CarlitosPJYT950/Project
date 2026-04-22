@@ -6,7 +6,10 @@
 "usuarios" : {
 "id" : 1,
 "dinero" : 999999,
-"server" : "localhost"
+"server" : [
+"localhost",
+80
+]
 },
 "conexion" : 200
 }
