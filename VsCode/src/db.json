@@ -1,16 +1,16 @@
 {
-"DiosesMC" : {
-"usuario" : "VegettaGamer",
-"Rango" : "Dueño",
-"Lobby" : 1,
-"usuarios" : {
-"id" : 1,
-"dinero" : 999999,
-"server" : [
-"localhost",
-80
-]
-},
-"conexion" : 200
-}
+  "DiosesMC" : {
+    "usuario" : "VegettaGamer",
+    "Rango" : "Dueño",
+    "Lobby" : 1,
+    "usuarios" : {
+      "id" : 1,
+      "dinero" : 999999,
+      "server" : [
+        "localhost",
+        80
+      ]
+    },
+    "conexion" : 200
+  }
 }
