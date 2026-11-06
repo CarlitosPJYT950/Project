@@ -1,0 +1,346 @@
+{
+    "LOL" : {
+        "Regiones" : {
+            "LCK" : ["T1", "Gen G", "HLE", "DK", "NS", "DN", "BRION", "BNK", "DRX", "KT"],
+            "LPL" : ["AL", "IG", "TES", "BLG", "WG", "JDG", "WE", "EDG", "LDG", "LNG"],
+            "LEC" : ["G2", "KC", "KOI", "NAVI", "VITALITY", "HERETICS", "GIANTS", "FNATIC", "SKG", "BLUE"],
+            "LCS" : ["LYON", "TLAW", "C9", "FLY", "Sentinels", "Disguised", "Dignitas", "SR"],
+            "LCP" : ["CFO", "TSW", "MVK", "DCG", "GAM", "GZG", "SHG", "DFM"]
+        },
+        "Jugadores" : {
+            "KR" : {
+                "T1" : {
+                    "Doran" : "TOP",
+                    "Onner" : "JG",
+                    "Faker" : "MID",
+                    "Peyz" : "ADC",
+                    "Keria" : "S"
+                },
+                "Gen G" : {
+                    "Kiin" : "TOP",
+                    "Canyon" : "JG",
+                    "Chovy" : "MID",
+                    "Ruler" : "ADC",
+                    "Duro" : "S"
+                },
+                "HLE" : {
+                    "Zeus" : "TOP",
+                    "Kanavi" : "JG",
+                    "Zeka" : "MID",
+                    "Gumayusi" : "ADC",
+                    "Delith" : "S"
+                },
+                "DK" : {
+                    "Siwoo" : "TOP",
+                    "Lucid" : "JG",
+                    "ShowMaker" : "MID",
+                    "Smash" : "ADC",
+                    "Career" : "S"
+                },
+                "NS" : {
+                    "Kingen" : "TOP",
+                    "Sponge" : "JG",
+                    "Scout" : "MID",
+                    "Diable" : "ADC",
+                    "Lehends" : "S"
+                },
+                "DN" : {
+                    "Dudu" : "TOP",
+                    "Pyosik" : "JG",
+                    "Sharvel" : "MID",
+                    "DeokDam" : "ADC",
+                    "Peter" : "S"
+                },
+                "BRION" : {
+                    "Casting" : "TOP",
+                    "Gideon" : "JG",
+                    "Roamer" : "MID",
+                    "Teddy" : "ADC",
+                    "Namgung" : "S"
+                },
+                "BNK" : {
+                    "Clear" : "TOP",
+                    "Raptor" : "JG",
+                    "Vicla" : "MID",
+                    "TaeYoon" : "ADC",
+                    "Kellin" : "S"
+                },
+                "KT" : {
+                    "Perfect" : "TOP",
+                    "Cuzz" : "JG",
+                    "Bdd" : "MID",
+                    "JiWoo" : "ADC",
+                    "Effort" : "S"
+                },
+                "DRX" : {
+                    "Frog" : "TOP",
+                    "Willer" : "JG",
+                    "Ucal" : "MID",
+                    "Aiming" : "ADC",
+                    "Andil" : "S"
+                }
+            },
+            "CN" : {
+                "AL" : {
+                    "Breathe" : "TOP",
+                    "Tarzan" : "JG",
+                    "Shanks" : "MID",
+                    "Hope" : "ADC",
+                    "Kael" : "S"
+                },
+                "IG" : {
+                    "TheShy" : "TOP",
+                    "Wei" : "JG",
+                    "Rookie" : "MID",
+                    "JiaQi" : "ADC",
+                    "Meiko" : "S"
+                },
+                "TES" : {
+                    "369" : "TOP",
+                    "Tían" : "JG",
+                    "Creme" : "MID",
+                    "JackieLove" : "ADC",
+                    "Zhuo" : "S"
+                },
+                "BLG" : {
+                    "Bin" : "TOP",
+                    "Flandre" : "JG",
+                    "Xun" : "MID",
+                    "Knight" : "ADC",
+                    "Viper" : "S"
+                },
+                "WG" : {
+                    "Zika" : "TOP",
+                    "XiaoHao" : "JG",
+                    "XiaoHu" : "MID",
+                    "Alce" : "ADC",
+                    "Moham" : "S"
+                },
+                "JDG" : {
+                    "XiaoXu" : "TOP",
+                    "JunJia" : "JG",
+                    "HongQ" : "MID",
+                    "Gala" : "ADC",
+                    "Vampiro" : "S"
+                },
+                "WE" : {
+                    "Cube" : "TOP",
+                    "Monki" : "JG",
+                    "Karis" : "MID",
+                    "About" : "ADC",
+                    "Erha" : "S"
+                },
+                "EDG" : {
+                    "Zdz" : "TOP",
+                    "JieJie" : "JG",
+                    "BullDog" : "MID",
+                    "Leave" : "ADC",
+                    "Parukia" : "S"
+                },
+                "LDG" : {
+                    "Burdol" : "TOP",
+                    "Heng" : "JG",
+                    "TangYuan" : "MID",
+                    "ShaoYe" : "ADC",
+                    "Crisp" : "S"
+                },
+                "LNG" : {
+                    "Sheer" : "TOP",
+                    "WeiWei" : "JG",
+                    "Nia" : "MID",
+                    "1xn" : "ADC",
+                    "Missing" : "S"
+            }
+            },
+            "EU" : {
+                "G2" : {
+                    "BrokenBlade" : "TOP",
+                    "SkewMod" : "JG",
+                    "Casp" : "MID",
+                    "Hans Sama" : "ADC",
+                    "Labrov" : "S"
+                },
+                "KC" : {
+                    "Canna" : "TOP",
+                    "Yike" : "JG",
+                    "Kyeahoo" : "MID",
+                    "Caliste" : "ADC",
+                    "Busio" : "S"
+                },
+                "KOI" : {
+                    "Myrwn" : "TOP",
+                    "ElYoya" : "JG",
+                    "JojoPyun" : "MID",
+                    "Supa" : "ADC",
+                    "Alvaro" : "S"
+                },
+                "NAVI" : {
+                    "Maynter" : "TOP",
+                    "Rhilech" : "JG",
+                    "Poby" : "MID",
+                    "SamD" : "ADC",
+                    "Parus" : "S"
+                },
+                "VIT" : {
+                    "Naak Nako" : "TOP",
+                    "Lyncas" : "JG",
+                    "Fiesta" : "MID",
+                    "Carzzy" : "ADC",
+                    "Fieshy" : "S"
+                },
+                "HER" : {
+                    "Tracyn" : "TOP",
+                    "Daglas" : "JG",
+                    "Hype" : "ADC",
+                    "Way" : "S"
+                },
+                "GIANTS" : {
+                    "Oscarinin" : "TOP",
+                    "Isma" : "JG",
+                    "Jackies" : "MID",
+                    "Flakked" : "ADC",
+                    "Jun" : "S"
+                },
+                "FNATIC" : {
+                    "Soboro" : "TOP",
+                    "Razork" : "JG",
+                    "Vladi" : "MID",
+                    "Upset" : "ADC",
+                    "Lospa" : "S"
+                },
+                "SKG" : {
+                    "Wunder" : "TOP",
+                    "Skeanz" : "JG",
+                    "SlowQ" : "MID",
+                    "Jopa" : "ADC",
+                    "Mikys" : "S"
+                },
+                "BLUE" : {
+                    "Tao" : "TOP",
+                    "Yukino" : "JG",
+                    "Kamiloo" : "MID",
+                    "Looki" : "ADC",
+                    "Prime" : "S"
+                }
+            },
+            "NA" : {
+                "LYON" : {
+                    "Dhokla" : "TOP",
+                    "Inspired" : "JG",
+                    "Saint" : "MID",
+                    "Berserker" : "ADC",
+                    "Isles" : "S"
+                },
+                "TLAW" : {
+                    "Morgan" : "TOP",
+                    "Josedeodo" : "JG",
+                    "Quid" : "MID",
+                    "Yeon" : "ADC",
+                    "Corejj" : "S"
+                },
+                "C9" : {
+                    "Thanatos" : "TOP",
+                    "Blaber" : "JG",
+                    "Loki" : "MID",
+                    "Tactical" : "ADC",
+                    "Vulcan" : "S"
+                },
+                "FLY" : {
+                    "Gakgos" : "TOP",
+                    "Gryffinn" : "JG",
+                    "Quad" : "MID",
+                    "Massu" : "ADC",
+                    "Cryogen" : "S"
+                },
+                "Sentinels" : {
+                    "Impact" : "TOP",
+                    "HamBak" : "JG",
+                    "DarkWings" : "MID",
+                    "Rahel" : "ADC",
+                    "Huhi" : "S"
+                },
+                "Disguised" : {
+                    "Srtty" : "TOP",
+                    "KryRa" : "JG",
+                    "Callme" : "MID",
+                    "Sajed" : "ADC",
+                    "Lyonz" : "S"
+                },
+                "Dignitas" : {
+                    "Denathor" : "TOP",
+                    "FBI" : "ADC"
+                },
+                "SR" : {
+                    "Fudge" : "TOP",
+                    "Contractz" : "JG",
+                    "Zinie" : "MID",
+                    "Bvoy" : "ADC",
+                    "Zeyzal" : "S"
+                }
+            },
+            "APAC" : {
+                "CFO" : {
+                    "Rest" : "TOP",
+                    "ShaDow" : "JG",
+                    "Pout" : "MID",
+                    "Doggo" : "ADC",
+                    "Kino" : "S"
+                },
+                "TSW" : {
+                    "Pun" : "TOP",
+                    "Hizto" : "JG",
+                    "Dire" : "MID",
+                    "Eddie" : "ADC",
+                    "Bie" : "S"
+                },
+                "MVK" : {
+                    "Kratos" : "TOP",
+                    "Gury" : "JG",
+                    "SanSan" : "MID",
+                    "Chika" : "ADC",
+                    "SiuLoong" : "S"
+                },
+                "DCG" : {
+                    "Flauren" : "TOP",
+                    "Pop9" : "JG",
+                    "HongSuo" : "MID",
+                    "Fen" : "ADC",
+                    "ShiauC" : "S"
+                },
+                "GAM" : {
+                    "Kiaya" : "TOP",
+                    "Gloryy" : "MID",
+                    "Artemis" : "ADC",
+                    "Taki" : "S"
+                },
+                "GZG" : {
+                    "1Jiang" : "TOP",
+                    "Husha" : "JG",
+                    "Uniboy" : "MID",
+                    "Betty" : "ADC",
+                    "KaiWing" : "S"
+                },
+                "SHG" : {
+                    "Van1" : "JG",
+                    "Aria" : "MID",
+                    "Marble" : "ADC",
+                    "Vsta" : "S"
+                },
+                "DFM" : {
+                    "Momo" : "TOP",
+                    "Citrus" : "JG",
+                    "Fisher" : "MID",
+                    "Kakkun" : "ADC",
+                    "Woody" : "S"
+                }
+            }
+        },
+        "Roles" : {
+            "TOP" : ["Combatiente", "Tanque", 3],
+            "JG" : ["Cazador", "Asesino", 4],
+            "MID" : ["Mago", 2],
+            "ADC" : ["Tirador", "Carry", "HiperCarry", 1],
+            "S" : ["Soporte", "Tanque", 5]
+        }
+    }
+}
