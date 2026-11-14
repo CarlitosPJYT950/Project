@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "workspace" : [
+    ".idea",
     "VsCode",
     "node_modules",
     "public",
